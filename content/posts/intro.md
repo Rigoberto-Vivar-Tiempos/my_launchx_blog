@@ -5,5 +5,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Para mi lo fundamental que debe tener un todo desarrollador de software es:
+
 -El respeto es fundamental ya que ayuda a tener un ambiente de trabajo muy bueno.
+
 -El saber escuchar las ideas de los demas es muy importante ya que para mi ese es un buen trabajo en equipo.
