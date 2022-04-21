@@ -1,7 +1,5 @@
 ---
-title: "Título de tu blog post"
+title: "Recorrido en MissionNodeJS"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Acompañame en este maravilloso mundo'
 ---
-
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
