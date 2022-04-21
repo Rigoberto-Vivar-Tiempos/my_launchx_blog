@@ -10,7 +10,9 @@ Primero que nada espero que estes teniendo un excelente dia, yo soy Rigoberto, t
 Mis expectativas son:
 
 -Aprender Backend.
-Reforzar mas mis conocimientos en Frontend.
-Aprender todo lo que me ayude a ser mejor.
+
+-Reforzar mas mis conocimientos en Frontend.
+
+-Aprender todo lo que me ayude a ser mejor.
 
 🚀
