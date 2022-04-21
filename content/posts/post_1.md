@@ -5,12 +5,21 @@ description: 'Acompañame en este maravilloso mundo'
 ---
 
 Te comparto todo lo aprendido en este tiempo.
+
 Python.
+
 Lógica de Programación.
+
 Command Line.
+
 Git.
+
 Github.
+
 HTML.
+
 CSS.
+
 JS.
+
 NodeJS
