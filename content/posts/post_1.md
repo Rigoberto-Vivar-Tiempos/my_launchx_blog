@@ -1,25 +1,25 @@
 ---
-title: "Recorrido en MissionNodeJS"
+title: "Mi ruta de aprendizaje en Launch X"
 date: 2022-03-01
-description: 'Acompañame en este maravilloso mundo'
+description: 'Te voy a contar mi travesía en Launch-X de Innovaccion Virtual '
 ---
 
 Te comparto todo lo aprendido en este tiempo.
 
-Python.
+-Python.
 
-Lógica de Programación.
+-Lógica de Programación.
 
-Command Line.
+-Command Line.
 
-Git.
+-Git.
 
-Github.
+-Github.
 
-HTML.
+-HTML.
 
-CSS.
+-CSS.
 
-JS.
+-JS.
 
-NodeJS
+-NodeJS
